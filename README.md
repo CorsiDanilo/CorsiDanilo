@@ -2,7 +2,7 @@
 I'm <strong>Danilo Corsi</strong>, a 26-year-old <strong>Software Engineer</strong> from Italy.
 
 # :muscle: Skills
-TODO: 😁
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 # :gear: Projects
 ### University Projects
