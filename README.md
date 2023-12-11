@@ -54,7 +54,7 @@ During the development of some projects, I also used some programs like:
 - [Stroke Prediction Model with Machine Learning](https://github.com/CorsiDanilo/fundamentals-of-data-science) (Python, Machine Learning)
 ### Others
 - [SanLo Defence - Tower defence game for the revaluation of the San Lorenzo district (Rome)](https://sanloproject.it/) (C#, Unity)
-- [GeneroCity](https://www.generocity.it/) - a smart parking application developed by the Gamification Lab, a "Sapienza University of Rome" Computer Science department laboratory where I mainly worked on the development of new APIs (Golang, PostgreSQL)
+- [GeneroCity](https://www.generocity.it/) - a smart parking application developed by the Gamification Lab, a "Sapienza University of Rome" Computer Science department laboratory where I mainly worked on the development of the fronted (Android Studio, Java)
 
 # :handshake: Contact
 📩 Drop me an email <href>[here](mailto:danilo.corsi@outlook.it)</href>.
