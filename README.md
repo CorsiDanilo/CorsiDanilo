@@ -46,20 +46,18 @@ During the development of some projects, I also used some programs like:
 ### University Projects
 - Melanoma detection model - Multi classification skin lesion model (Python, Pytorch) [IN PROGRESS] ⚒️
 - SmartSupply - Blockchain fake product identification DAPP (Solidity) [IN PROGRESS] ⚒️
-- [Bitcoin price prediction](https://github.com/CorsiDanilo/big-data-computing-project) (Python, Machine Learning)
+- [Bitcoin price prediction - Project where where machine learning methods are tested to predict the price of Bitcoin](https://github.com/CorsiDanilo/big-data-computing-project) (Python, Machine Learning)
 - [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/CorsiDanilo/voicefork) (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)
 - [Voicefork Alexa Skill - Alexa Skill for Voicefork application that focuses on restaurant disambiguation](https://github.com/CorsiDanilo/voicefork-alexa-skill) (Voice User Interface, Alexa Skill, Typescript)
 - [BiometricBites - Face recognition system for cafeteria access](https://github.com/CorsiDanilo/BiometricBites) (Typescript, ReactJS, SCSS, Python, Django, MySQL, Face Recognition)
 - [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/CorsiDanilo/autonomous-networking) (Python, Reinforcement Learning)
 - [Stroke Prediction Model with Machine Learning](https://github.com/CorsiDanilo/fundamentals-of-data-science) (Python, Machine Learning)
 ### Others
-- [SanLo Defence - Tower defence game for the revaluation of the San Lorenzo district (Rome)](https://sanloproject.it/) (C#, Unity)
+- [SanLo Defence] a tower defence game for the revaluation of the San Lorenzo district (Rome) where I mainly worked on the development of the fronted (https://sanloproject.it/) (C#, Unity)
 - [GeneroCity](https://www.generocity.it/) - a smart parking application developed by the Gamification Lab, a "Sapienza University of Rome" Computer Science department laboratory where I mainly worked on the development of the fronted (Android Studio, Java)
 
 # :handshake: Contact
-📩 Drop me an email <href>[here](mailto:danilo.corsi@outlook.it)</href>.
-
-🗨️ Contact me on <href>[Telegram](https://t.me/anomalyzedd)</href>.
+Drop me an email <href>[here](mailto:danilo.corsi@outlook.it)</href> or contact me on <href>[Telegram](https://t.me/anomalyzedd)</href>.
 
 # :link: Links
 📃 <href>[LinkedIn](https://www.linkedin.com/in/danilocorsi97/)</href>
