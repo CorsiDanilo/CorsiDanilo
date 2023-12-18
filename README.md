@@ -44,17 +44,22 @@ During the development of some projects, I also used some programs like:
 
 # :gear: Projects
 ### University Projects
-- Melanoma detection model - Multi classification skin lesion model (Python, Pytorch) [IN PROGRESS] ⚒️
-- SmartSupply - Blockchain fake product identification DAPP (Solidity) [IN PROGRESS] ⚒️
-- [Bitcoin price prediction - Project where machine learning methods are tested to predict the price of Bitcoin](https://github.com/CorsiDanilo/bitcoin-price-prediction-with-pyspark) (Python, Machine Learning)
-- [Voicefork - TheFork mobile app clone with microservices structure](https://github.com/CorsiDanilo/voicefork) (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)
-- [Voicefork Alexa Skill - Alexa Skill for Voicefork application that focuses on restaurant disambiguation](https://github.com/CorsiDanilo/voicefork-alexa-skill) (Voice User Interface, Alexa Skill, Typescript)
-- [BiometricBites - Face recognition system for cafeteria access](https://github.com/CorsiDanilo/BiometricBites) (Typescript, ReactJS, SCSS, Python, Django, MySQL, Face Recognition)
-- [Routing protocol for UAV ad-hoc wireless networks using Q-learning](https://github.com/CorsiDanilo/autonomous-networking) (Python, Reinforcement Learning)
-- [Stroke Prediction Model with Machine Learning](https://github.com/CorsiDanilo/fundamentals-of-data-science) (Python, Machine Learning)
+| Project                                                                                           | Note                                                                                                                                                    |  Status                |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [Melanoma Detection Model]()                                                                      | Multi classification skin lesion model (Python, Pytorch)                                                                                                | IN PROGRESS ⚒️        |
+| [SmartSupply]()                                                                                   | Blockchain fake product identification DAPP (Solidity)                                                                                                  | IN PROGRESS ⚒️        |
+| [Bitcoin price prediction](https://github.com/CorsiDanilo/bitcoin-price-prediction-with-pyspark)  | Project where machine learning methods are tested to predict the price of Bitcoin (Python, Machine Learning)                                            | DONE ✅               |
+| [Voicefork](https://github.com/CorsiDanilo/voicefork)                                             | TheFork mobile app clone with microservices structure (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)       | DONE ✅               |
+| [Voicefork Alexa Skill](https://github.com/CorsiDanilo/voicefork-alexa-skill)                     | Alexa Skill for Voicefork application that focuses on restaurant disambiguation(Voice User Interface, Alexa Skill, Typescript)                          | DONE ✅               |
+| [BiometricBites](https://github.com/CorsiDanilo/BiometricBites)                                   | Face recognition system for cafeteria access (Typescript, ReactJS, SCSS, Python, Django, MySQL, Face Recognition)                                       | DONE ✅               |
+| [DroNET](https://github.com/CorsiDanilo/autonomous-networking)                                    | Implementation of routing protocol for UAV ad-hoc wireless networks using Q-learning(Python, Reinforcement Learning)                                    | DONE ✅               |
+| [Stroke Prediction Model](https://github.com/CorsiDanilo/fundamentals-of-data-science)            | Stroke Prediction Model with Machine Learning (Python, Machine Learning)                                                                                | DONE ✅               |
+
 ### Others
-- [SanLo Defence](https://sanloproject.it/) - a tower defence game for the revaluation of the San Lorenzo district (Rome) where I mainly worked on the development of the fronted (C#, Unity)
-- [GeneroCity](https://www.generocity.it/) - a smart parking application developed by the Gamification Lab, a "Sapienza University of Rome" Computer Science department laboratory where I mainly worked on the development of the fronted (Android Studio, Java)
+| Project                                      | Note                                                                                                                                                                                                                  |  Status                |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [SanLo Defence](https://sanloproject.it/)    | A tower defence game for the revaluation of the San Lorenzo district (Rome) where I mainly worked on the development of the fronted (C#, Unity)                                                                       | IN PROGRESS ⚒️        |
+| [GeneroCity](https://www.generocity.it/)     | A smart parking application developed by the Gamification Lab, a "Sapienza University of Rome" Computer Science department laboratory where I mainly worked on the development of the fronted (Android Studio, Java)  | DONE ✅               |
 
 # :handshake: Contact
 Drop me an email <href>[here](mailto:danilo.corsi@outlook.it)</href> or contact me on <href>[Telegram](https://t.me/anomalyzedd)</href>.
