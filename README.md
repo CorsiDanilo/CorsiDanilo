@@ -52,7 +52,7 @@ During the development of some projects, I also used some programs like:
 | [Voicefork](https://github.com/CorsiDanilo/voicefork)                                             | TheFork mobile app clone with microservices structure (React Native, AWS, Terraform, Prisma, Python, Typescript, Express, FastAPI, MinIO, Docker)       | ✅               |
 | [Voicefork Alexa Skill](https://github.com/CorsiDanilo/voicefork-alexa-skill)                     | Alexa Skill for Voicefork application that focuses on restaurant disambiguation(Voice User Interface, Alexa Skill, Typescript)                          | ✅               |
 | [BiometricBites](https://github.com/CorsiDanilo/BiometricBites)                                   | Face recognition system for cafeteria access (Typescript, ReactJS, SCSS, Python, Django, MySQL, Face Recognition)                                       | ✅               |
-| [DroNET](https://github.com/CorsiDanilo/autonomous-networking)                                    | Implementation of routing protocol for UAV ad-hoc wireless networks using Q-learning(Python, Reinforcement Learning)                                    | DONE ✅               |
+| [DroNET](https://github.com/CorsiDanilo/autonomous-networking)                                    | Implementation of routing protocol for UAV ad-hoc wireless networks using Q-learning(Python, Reinforcement Learning)                                    | ✅               |
 | [Stroke Prediction Model](https://github.com/CorsiDanilo/fundamentals-of-data-science)            | Stroke Prediction Model with Machine Learning (Python, Machine Learning)                                                                                | ✅               |
 
 ### Others
