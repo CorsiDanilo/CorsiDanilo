@@ -1,12 +1,20 @@
-# :raising_hand_man: About me
-I'm <strong>Danilo Corsi</strong>, a 26-year-old <strong>Software Engineer</strong> from Italy.
+# 💫 About Me
+Hi 👋🏻, I'm Danilo Corsi.
 
-I obtained a bachelor's degree in Computer Science from the University of Rome "La Sapienza" in March 2022.
+👨🏻‍🎓 I'm graduated in Computer Science at La Sapienza University of Rome.<br>
+📚 I’m currently attending the Master Degree Course in Computer Science at La Sapienza University of Rome.<br>
+💻 All of my projects are available [here](https://github.com/CorsiDanilo?tab=repositories).<br>
+🌱 My aspiration is to work in the field of Big Data and more generally with everything related to Machine Learning or Deep Learning.<br>
+🍕 My Techfolio: [datapizza.tech](https://jobs.datapizza.tech/folio/danilocorsi866)<br>
 
-I'm currently studying for my master's degree in Computer Science at the University of Rome "La Sapienza".
+# 🌐 Links
+✉️ [Mail](mailto:danilo.corsi@outlook.it)<br>
+💬 [Telegram](https://t.me/anomalyzedd)<br>
+📃 [LinkedIn](https://www.linkedin.com/in/danilocorsi97/)<br>
+🌐 [Site](https://linktr.ee/danilocorsi)<br>
 
 
-# :muscle: Skills
+# 💻 Tech Stack
 Some languages I worked with are:
 
 - Python
@@ -61,13 +69,16 @@ During the development of some projects, I also used some programs like:
 | [SanLo Defence](https://sanloproject.it/)    | A tower defence game for the revaluation of the San Lorenzo district (Rome) where I mainly worked on the development of the fronted. (``Frontend, C#, Unity, Figma``)                                                                     |
 | [GeneroCity](https://www.generocity.it/)     | I took part in an internship with GamificationLab, a "Sapienza University of Rome" laboratory that deals with the design and development of web applications. I worked mainly on the development of frontend application called GeneroCity, using Java programming language (``Mobile App, Frontend, Java, Android Studio, Adobe XD``)  |
 
-# :handshake: Contact
-Drop me an email <href>[here](mailto:danilo.corsi@outlook.it)</href> or contact me on <href>[Telegram](https://t.me/anomalyzedd)</href>.
-
-# :link: Links
-📃 <href>[LinkedIn](https://www.linkedin.com/in/danilocorsi97/)</href>
-
-🌐 <href>[Site](https://linktr.ee/danilocorsi)</href>
-
 # :bar_chart: Some Stats
 [![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorsiDanilo)](https://github.com/anuraghazra/github-readme-stats)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CorsiDanilo&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CorsiDanilo&theme=nord&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CorsiDanilo&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CorsiDanilo&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CorsiDanilo&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
