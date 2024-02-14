@@ -8,10 +8,10 @@ Hi 👋🏻, I'm Danilo Corsi.
 🍕 My Techfolio: [datapizza.tech](https://jobs.datapizza.tech/folio/danilocorsi866)<br>
 
 # 🌐 Links
-✉️ [Mail](mailto:danilo.corsi@outlook.it)<br>
-💬 [Telegram](https://t.me/anomalyzedd)<br>
-📃 [LinkedIn](https://www.linkedin.com/in/danilocorsi97/)<br>
-🌐 [Site](https://linktr.ee/danilocorsi)<br>
+✉️ [Mail](mailto:danilo.corsi@outlook.it) - 
+💬 [Telegram](https://t.me/anomalyzedd) - 
+📃 [LinkedIn](https://www.linkedin.com/in/danilocorsi97/) - 
+🌐 [Site](https://linktr.ee/danilocorsi)
 
 
 # 💻 Tech Stack
