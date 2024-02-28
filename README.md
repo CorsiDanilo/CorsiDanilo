@@ -67,8 +67,7 @@ During the development of some projects, I also used some programs like:
 | Project                                      | Description                                                                                                                                                                                                           |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [SanLo Defence](https://sanloproject.it/)    | A tower defence game for the revaluation of the San Lorenzo district (Rome) where I mainly worked on the development of the fronted. (``Frontend, C#, Unity, Figma``)                                                                     |
-| [GeneroCity](https://www.generocity.it/)     | I took part in a team of three people for the native development in Java of an Android app
-that allows the users to easily find a parking spot, I worked on the development of the frontend (home screen, parking list, and some parking/unparking functionality). (``Mobile App, Frontend, Java, Android Studio, Adobe XD``)  |
+| [GeneroCity](https://www.generocity.it/)     | I took part in a team of three people for the native development in Java of an Android app that allows the users to easily find a parking spot, I worked on the development of the frontend (home screen, parking list, and some parking/unparking functionality). (``Mobile App, Frontend, Java, Android Studio, Adobe XD``)  |
 
 # :bar_chart: Some Stats
 [![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorsiDanilo)](https://github.com/anuraghazra/github-readme-stats)
