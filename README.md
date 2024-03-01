@@ -25,6 +25,7 @@ Some languages I worked with are:
 - HTML
 - CSS (SCSS)
 - SQL
+- Latex
 
 Concerning the front-end, I have experience with:
 
@@ -35,10 +36,13 @@ Concerning the front-end, I have experience with:
 Regarding the back-end, I used some technologies such as:
 
 - Node.js
+- Postman
+- Apache
 - Docker
-- MySQL / PostgreSQL (along with Prisma)
+- MySQL / PostgreSQL
+- Prisma
 
-Regarding AI, I often use these frameworks:
+Regarding Machine learning / Deep learning, I often use these frameworks:
 - PyTorch
 - PySpark
 
@@ -49,6 +53,9 @@ I have also some experience with cloud computing systems like:
 During the development of some projects, I also used some programs like:
 
 - Figma / Adobe XD
+- Git (with GitHub / GitLab)
+- Microsoft Office Suite
+- VS Code
 
 # :gear: Projects
 ### University Projects
