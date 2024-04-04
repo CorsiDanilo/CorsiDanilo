@@ -2,10 +2,15 @@
 Hi 👋🏻, I'm Danilo Corsi.
 
 👨🏻‍🎓 I'm graduated in Computer Science at La Sapienza University of Rome
+
 📚 I’m currently attending the Master Degree Course in Computer Science at La Sapienza University of Rome
+
 💻 All of my projects are available on GitHub: github.com/CorsiDanilo
+
 🌱 My aspiration is to work in the field of Big Data and more generally with everything related to Machine Learning or Deep Learning.
+
 ⚙️ This is my techfolio: datapizza.tech/folio/danilocorsi866
+
 🌐 Other details can be found here: linktr.ee/danilocorsi
 
 # 🌐 Links
