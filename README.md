@@ -11,7 +11,7 @@ Hi 👋🏻, I'm Danilo Corsi.
 
 ⚙️ This is my techfolio: [datapizza.tech/folio/danilocorsi866](datapizza.tech/folio/danilocorsi866)
 
-🌐 Other details can be found here: [linktr.ee/danilocorsi](linktr.ee/danilocorsi)
+🌐 Other details can be found here: [linktr.ee/danilocorsi](https://linktr.ee/danilocorsi)
 
 # 🌐 Links
 ✉️ [Mail](mailto:danilo.corsi@outlook.it) - 
