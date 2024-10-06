@@ -9,8 +9,6 @@ Hi 👋🏻, I'm Danilo Corsi.
 
 💻 All of my projects are available on GitHub: [github.com/CorsiDanilo](github.com/CorsiDanilo)
 
-⚙️ This is my techfolio: [datapizza.tech/folio/danilocorsi866](datapizza.tech/folio/danilocorsi866)
-
 🌐 Other details can be found here: [linktr.ee/danilocorsi](https://linktr.ee/danilocorsi)
 
 # 🌐 Links
