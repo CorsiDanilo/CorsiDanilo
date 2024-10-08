@@ -13,7 +13,7 @@ Hi 👋🏻, I'm Danilo Corsi.
 
 # 🌐 Links
 ✉️ [Mail](mailto:danilo.corsi@outlook.it) - 
-💬 [Telegram](https://t.me/anomalyzedd) - 
+💬 [Telegram](https://t.me/danilocorsi) - 
 📃 [LinkedIn](https://www.linkedin.com/in/danilocorsi97/) - 
 🌐 [Site](https://linktr.ee/danilocorsi)
 
