@@ -7,12 +7,12 @@ Hi 👋🏻, I'm Danilo Corsi.
 
 💻 I have hands-on experience with various projects in AI, deep learning, and software development. You can check out all my work here on GitHub.
 
-🌐 For more information, feel free to visit my personal page: [linktr.ee/danilocorsi](https://linktr.ee/danilocorsi).
+🌐 For more information, feel free to visit my personal page: [LinkTree](https://linktr.ee/danilocorsi).
 
 # 🌐 Links
 ✉️ [danilo.corsi@outlook.it](mailto:danilo.corsi@outlook.it) - 
-💬 [t.me/danilocorsi](https://t.me/danilocorsi) - 
-📃 [linkedin.com/in/danilocorsi97/](https://www.linkedin.com/in/danilocorsi97/)
+💬 [Telegram](https://t.me/danilocorsi) - 
+📃 [LinkedIn](https://www.linkedin.com/in/danilocorsi97/)
 
 # 🛠️ Tech Stack
 ### 💻 Languages
