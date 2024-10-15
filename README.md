@@ -10,8 +10,10 @@ Hi 👋🏻, I'm Danilo Corsi.
 🌐 For more information, feel free to visit my personal page: [LinkTree](https://linktr.ee/danilocorsi).
 
 # 🌐 Links
-✉️ [danilo.corsi@outlook.it](mailto:danilo.corsi@outlook.it) - 
-💬 [Telegram](https://t.me/danilocorsi) - 
+✉️ [danilo.corsi@outlook.it](mailto:danilo.corsi@outlook.it)
+
+💬 [Telegram](https://t.me/danilocorsi)
+
 📃 [LinkedIn](https://www.linkedin.com/in/danilocorsi97/)
 
 # 🛠️ Tech Stack
