@@ -1,7 +1,9 @@
 # 💫 About Me
 Hi 👋🏻, I'm Danilo Corsi.
 
-👨🏻‍🎓 I hold a Bachelor's Degree in Computer Science from La Sapienza University of Rome, and I'm currently pursuing a Master's Degree in Computer Science at the same institution, with a focus on Machine Learning and Deep Learning.
+🏢 I am currently a Machine Learning Engineer at [NTTDATA Italia](https://it.nttdata.com/).
+
+👨🏻‍🎓 I have a Master's Degree in Computer Science at La Sapienza University of Rome, with a specialization in Machine Learning and Deep Learning.
 
 🌱 I'm passionate about applying AI and data science to solve real-world problems, with a strong interest in fields like predictive modeling, data analysis, and the use of Large Language Models (LLMs).
 
