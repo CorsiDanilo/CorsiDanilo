@@ -35,6 +35,20 @@ Hi 👋🏻, I'm Danilo Corsi.
 - Docker, Postman, Microsoft Office Suite, Figma, Adobe XD, Git (GitHub, GitLab)
 
 # :gear: Projects
+### 😊 My Projects
+
+- **✍️ [Whisper Audio/Video Transcription App](https://github.com/CorsiDanilo/whisper-utility)**  
+  Cross-platform offline transcription application using OpenAI’s Whisper. It allows transcription of audio and video files into text and enables analysis of the generated output using LLMs such as Gemini or locally run models via Ollama. 
+  *(Python, LLM, PyTorch, CUDA, Deep Learning)*
+
+- **📄 [Simple Document Scanner](https://github.com/CorsiDanilo/Simple-Document-Scanner)**
+  A high-performance, modern Android application built to simplify document scanning, processing, and sharing. Powered by Google Play Services ML Kit, this app provides a seamless professional scanning experience directly on your device.
+  *(Kotlin, Android, ML Kit, Computer Vision)*
+
+- **🎙️ [Simple Transcriber](https://github.com/CorsiDanilo/Simple-Transcriber)**
+  A privacy-focused Android application for high-quality audio transcription and text refinement, featuring both on-device AI for privacy and cloud-based AI for state-of-the-art accuracy. Built with Kotlin and Jetpack Compose.
+  *(Kotlin, Android, ML Kit, offline, Huggingface)*
+
 ### 🎓 University Projects
 
 - **🎛️ [Leveraging LLMs for Informed Bitcoin Trading Decisions](https://github.com/CorsiDanilo/Leveraging-LLMs-for-Informed-Bitcoin-Trading-Decisions)**  
@@ -76,12 +90,6 @@ Hi 👋🏻, I'm Danilo Corsi.
 - **🫠 [Stroke Prediction Model](https://github.com/CorsiDanilo/fundamentals-of-data-science-homework-and-project)**  
   Homework for the master's degree in Computer Science course "Fundamentals of Data Science" at the University of Rome "La Sapienza," consisting of creating a machine learning model for predicting strokes.  
   *(Python, Machine Learning)*
-
-### 😊 My Projects
-
-- **🎙️ [Whisper Audio/Video Transcription App](https://github.com/CorsiDanilo/whisper-utility)**  
-  Development of a transcription app built using the Faster Whisper model, which transcribes audio and video files into text. It is powered by Gradio for a user-friendly web interface and supports audio or video file uploads for transcription.  
-  *(Python, LLM, PyTorch, CUDA, Deep Learning)*
 
 ### 🤝 Others
 
