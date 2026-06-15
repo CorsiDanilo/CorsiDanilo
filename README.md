@@ -11,28 +11,10 @@ Hi 👋🏻, I'm Danilo Corsi.
 
 🌐 For more information, feel free to visit my portfolio: [corsidanilo.github.io/portfolio](https://corsidanilo.github.io/portfolio).
 
-# 🌐 Links
+# 🌐 Contact Me
 ✉️ [danilo.corsi@outlook.it](mailto:danilo.corsi@outlook.it)
 
-💬 [Telegram](https://t.me/danilocorsi)
-
 📃 [LinkedIn](https://www.linkedin.com/in/danilocorsi97/)
-
-# 🛠️ Tech Stack
-### 💻 Languages
-- Python, C#, C++, Java, JavaScript, TypeScript, Solidity, LaTeX
-
-### 🎨 Frontend Development
-- HTML, CSS, SCSS, React.js, React Native, Unity
-
-### 🏗️ Backend Development
-- Node.js, MySQL, FastAPI, SQL (PostgreSQL, MySQL), HardHat
-
-### 📊 Data Science & Machine Learning
-- PyTorch, PySpark, Scikit-Learn, Matplotlib, Seaborn, Pandas
-
-### 🧰 Tools & Technologies
-- Docker, Postman, Microsoft Office Suite, Figma, Adobe XD, Git (GitHub, GitLab)
 
 # :gear: Projects
 ### 😊 My Projects
