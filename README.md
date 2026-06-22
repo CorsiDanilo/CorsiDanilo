@@ -1,7 +1,7 @@
 # 💫 About Me
 Hi 👋🏻, I'm Danilo Corsi.
 
-🏢 I am currently a Machine Learning Engineer at [NTTDATA Italia](https://it.nttdata.com/).
+🏢 I am currently an AI Engineer at [NTTDATA Italia](https://it.nttdata.com/).
 
 👨🏻‍🎓 I have a Master's Degree in Computer Science at La Sapienza University of Rome, with a specialization in Machine Learning and Deep Learning.
 
